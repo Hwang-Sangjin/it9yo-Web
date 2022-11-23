@@ -1,0 +1,43 @@
+.footer {
+  width: 100vw;
+  height: 100vh;
+  background-color: #2c3744;
+}
+.quote9 {
+  position: absolute;
+  width: 833px;
+  height: 164.26px;
+  left: 360px;
+  top: 3897.87px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+
+  color: #ffffff;
+}
+.quote10 {
+  position: absolute;
+  width: 833px;
+  height: 164.26px;
+  left: 360px;
+  top: 3977.87px;
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+
+  color: #ffffff;
+}
+.footerIcon {
+  position: absolute;
+  width: 160px;
+  height: 164.26px;
+  left: 1397px;
+  top: 3898px;
+
+  filter: drop-shadow(0px 10px 20px rgba(0, 0, 0, 0.15));
+}
+.snap {
+  scroll-snap-align: start;
+}

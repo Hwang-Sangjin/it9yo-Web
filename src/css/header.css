@@ -1,0 +1,61 @@
+.header {
+  width: 100vw;
+  height: 100vh;
+  background-color: #ff9e3e;
+}
+
+.title {
+  position: absolute;
+  width: 105px;
+  height: 30px;
+  left: 360px;
+  top: 14px;
+}
+
+.quote {
+  position: absolute;
+  width: 427px;
+  height: 240px;
+  left: 360px;
+  top: 208px;
+
+  font-style: normal;
+  font-weight: 700;
+  font-size: 64px;
+  line-height: 80px;
+
+  color: #ffffff;
+}
+.download {
+  position: absolute;
+  width: 370px;
+  height: 54px;
+  left: 359px;
+  top: 498px;
+}
+
+.town {
+  position: absolute;
+  width: 468.1px;
+  height: 416.16px;
+  left: 751.12px;
+  top: 430px;
+  z-index: 1;
+}
+
+.iphone {
+  position: absolute;
+  width: 520.44px;
+  height: 1036.1px;
+
+  left: 54.14%;
+  right: 18.75%;
+  top: 4.18%;
+  bottom: 69.25%;
+
+  filter: drop-shadow(0px 4px 50px rgba(0, 0, 0, 0.3));
+  z-index: 1;
+}
+.snap {
+  scroll-snap-align: start;
+}
